@@ -38,7 +38,7 @@
 ## Contact Me  
 
 - 📧 **Email:** [omarm6985@gmail.com](mailto:yomarm6985@gmail.com)  
-- 💼 **LinkedIn:** [https://www.linkedin.com/in/omar-medhat1/](#)  
+- 💼 **LinkedIn:** [linkedin.com/in/omar-medhat1/](#)  
 - 🐦 **Twitter:** [@OmarMLdev](https://x.com/OmarMLdev)  
 
 Feel free to reach out if you want to collaborate on a project, or just want to chat about AI and ML!  
