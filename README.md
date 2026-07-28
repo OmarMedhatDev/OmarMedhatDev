@@ -71,12 +71,12 @@ interests:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=OmarMedhatDev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&ring_color=00D9FF" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=OmarMedhatDev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&ring_color=00D9FF" alt="GitHub Stats" />
 <img width="49%" src="https://streak-stats.demolab.com/?user=OmarMedhatDev&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=555555" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarMedhatDev&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" alt="Top Languages" />
+<img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=OmarMedhatDev&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" alt="Top Languages" />
 
 </div>
 
@@ -86,7 +86,7 @@ interests:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=OmarMedhatDev&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
+<img src="https://github-trophies.vercel.app/?username=OmarMedhatDev&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
 
 </div>
 
@@ -97,20 +97,6 @@ interests:
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=OmarMedhatDev&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF&hide_border=true" alt="Contribution Graph" />
-
-</div>
-
----
-
-<div align="center">
-
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OmarMedhatDev/OmarMedhatDev/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OmarMedhatDev/OmarMedhatDev/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/OmarMedhatDev/OmarMedhatDev/output/github-snake-dark.svg" />
-</picture>
 
 </div>
 
