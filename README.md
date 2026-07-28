@@ -4,7 +4,7 @@
 
 ### `Software & AI Engineer`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=520&lines=Building+intelligent+systems+with+AI+%26+code;Full+Stack+Developer+%7C+AI+Enthusiast;Always+learning%2C+always+building" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=520&lines=Code+%2B+AI+%3D+%E2%9C%A8;Always+learning%2C+always+building;Turning+ideas+into+reality" alt="Typing SVG" />
 
 <br/>
 
@@ -28,12 +28,11 @@ name: Omar Medhat
 role: Software & AI Engineer
 location: Egypt
 bio: Learning and building
-current_focus: Building intelligent systems with AI & code
+current_focus: Shipping cool stuff with AI
 interests:
   - Artificial Intelligence & Machine Learning
-  - Full Stack Development
+  - Software Engineering
   - Open Source Contributions
-  - Discord Bot Development
 ```
 
 ---
@@ -98,8 +97,6 @@ interests:
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=OmarMedhatDev&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF&hide_border=true" alt="Contribution Graph" />
-
-> ⚠️ **Note:** Stats cards, trophies, graphs, and the snake animation are **dynamic images** that render on GitHub — they won't display in local markdown previews. Push this file as `README.md` in your `OmarMedhatDev` repo to see them live.
 
 </div>
 
