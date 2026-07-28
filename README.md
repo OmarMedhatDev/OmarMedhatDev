@@ -73,7 +73,7 @@ interests:
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=OmarMedhatDev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&ring_color=00D9FF" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=OmarMedhatDev&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=555555" alt="GitHub Streak" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=OmarMedhatDev&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=555555" alt="GitHub Streak" />
 
 <br/><br/>
 
@@ -98,6 +98,8 @@ interests:
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=OmarMedhatDev&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF&hide_border=true" alt="Contribution Graph" />
+
+> ⚠️ **Note:** Stats cards, trophies, graphs, and the snake animation are **dynamic images** that render on GitHub — they won't display in local markdown previews. Push this file as `README.md` in your `OmarMedhatDev` repo to see them live.
 
 </div>
 
